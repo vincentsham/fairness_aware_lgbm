@@ -59,7 +59,7 @@ This repository focuses on building fairness-aware machine learning models using
 
 ## Project Poster
 
-![Project Poster](poster.pdf)
+![Project Poster](./poster.png)
 
 ## Contributing
 
